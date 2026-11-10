@@ -1,4 +1,4 @@
-# 📊 Proyecto 7: NovaRetail+ — Análisis de Comportamiento y Factores de Ingreso
+# 📊 NovaRetail+ — Análisis de Comportamiento y Factores de Ingreso
 
 > **Resumen Ejecutivo (BLUF):** Este proyecto, desarrollado en el marco de la ruta de especialización en Data Analysis de TripleTen, evalúa los inductores clave del ingreso en una plataforma de comercio electrónico de 15,000 registros. Mediante análisis exploratorio y estadístico avanzado, se aisló el motor transaccional primario ($r = 0.97$ en compras mensuales) y se identificaron cuellos de botella en la conversión publicitaria, proporcionando a la dirección una hoja de ruta accionable para optimizar la retención y el valor de vida del cliente (LTV).
 
